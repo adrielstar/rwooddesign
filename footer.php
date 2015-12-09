@@ -15,7 +15,7 @@
     <div class="container animated fadeInLeft">
         <div class="row">
             <div class="site-footer-inner col-sm-12 clearfix">
-            <?php get_sidebar( 'footer' ); ?>
+            <?php get_sidebar( 'myfooter' ); ?>
             </div>  
         </div>
     </div><!-- close .container -->

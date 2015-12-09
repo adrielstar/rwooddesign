@@ -25,7 +25,7 @@
 		</ul>
 	    </aside>
 
-	    <aside id="meta" class="widget widget_meta"> 
+	    <aside id="meta" class="widget widget_meta">
 		<h3 class="widget-title"><?php _e( 'Meta', 'ascent' ); ?></h3>
 		<ul>
 		    <?php wp_register(); ?>
